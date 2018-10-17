@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+FN;CHARSET=UTF-8:Michael Zaro
+N;CHARSET=UTF-8:Michael Zaro;;;;
+PROFILE:VCARD
+ADR;CHARSET=UTF-8:;;150 State st;Salt Lake City;UT;84111;USA
+EMAIL:marketing@vschool.io
+ORG;CHARSET=UTF-8:V School
+URL:http://vschool.io
+END:VCARD
